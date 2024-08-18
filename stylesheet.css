@@ -1,0 +1,29 @@
+body {
+       background: white;
+       Font-family: romans
+
+}      
+
+A:link, a:visited{background-color:#f44336;
+Color: white;
+padding: 09px 15px;
+text-align: center;
+text-decoration: romans;
+display: inline-block
+img{
+       width: 30%;
+}
+form{
+       background-color:var(--form-bg);
+       width: 300px;
+       margin: 5rem auto;
+       padding: 2rem;
+       border-radius: 5px;
+       box-shadow: 1px 0 19px 2px rgba(rgb(66, 12, 12), green, blue, alpha)
+}
+label {
+       color: #f44336;
+}
+input{
+       color: var(--light-c)
+}
